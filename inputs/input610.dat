@@ -1,0 +1,13 @@
+// OPL dat file for problem # 610
+SheetConnection sheet("input610.xlsx");
+D from SheetRead(sheet,"D"); // num of departments
+Time from SheetRead(sheet,"Time"); // time limit
+w1 from SheetRead(sheet,"w_1");
+Size from SheetRead(sheet,"Size"); // dep sizes
+R from SheetRead(sheet,"R_ij"); // coof
+xr to SheetWrite(sheet,"Xr");
+xl to SheetWrite(sheet,"Xl");
+yu to SheetWrite(sheet,"Yu");
+yd to SheetWrite(sheet,"Yd");
+totx to SheetWrite(sheet,"xtot");
+toty to SheetWrite(sheet,"ytot");

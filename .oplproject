@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Planning</description>
+	<configs>
+		<config category="opl" default="true" name="Configuration1">
+			<ref name="Planning.mod" type="model">
+			</ref>
+			<ref name="input.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
