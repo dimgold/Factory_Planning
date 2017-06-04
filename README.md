@@ -34,3 +34,6 @@ The solution approach used Python and CPLEX OPL MILP programming to reach the be
 * png - folder with result outline images
 * txt  -folder with result metrics and coordinates
 
+### Mixed Integer Linear Programming Model:
+
+![alt text](https://github.com/dimgold/Factory_Planning/blob/master/png/linmodel.JPG "Linear Programming")
