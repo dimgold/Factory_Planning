@@ -9,7 +9,6 @@ import os
 
 
 
-
 path = os.getcwd() #path definition
 fdir  = ''
 
