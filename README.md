@@ -7,6 +7,8 @@
 The goal of the project is given a projected set of departments and their areas, to plan the best arrangement that uses the smallest area keep short distances between related departments.
 The full problem is NP-Hard, and a approximization approach was presented.
 
+
+
 ### The presented problem is:
 
 Place n departments, with area given by a vector - A (10% deviance is allowed)
