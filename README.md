@@ -25,7 +25,6 @@ Subject to restrictions:
 
 The solution approach used Python and CPLEX OPL MILP programming to reach the best planning.
 
-
 ### Files and Directories:
 * resplot.py - main python code to generate the OPL input file, run the optimization and create the output image and data
 * Planning.mod - main OPL code
